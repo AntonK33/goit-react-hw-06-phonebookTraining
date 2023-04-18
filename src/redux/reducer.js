@@ -1,6 +1,6 @@
 import { combineReducers } from "redux";
 import { statusFilters } from "./constants";
-import { deleteCompletedTask } from "./actions";
+
 
 const tasksInitialState = [
   { id: 0, text: "Learn HTML and CSS", completed: true },

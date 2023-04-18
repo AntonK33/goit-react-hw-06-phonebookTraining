@@ -1,4 +1,4 @@
-import { type } from "@testing-library/user-event/dist/type";
+
 import { nanoid } from "nanoid";
 
 export const addTask = text => {
